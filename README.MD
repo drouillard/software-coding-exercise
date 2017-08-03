@@ -1,6 +1,6 @@
 # Coding Exercise
 
-This coding exercise is part of the application process for Greenback's Software Development Internship.
+This coding exercise is part of the application process for Shrine Development
 
 ## Instructions
 
