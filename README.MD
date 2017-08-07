@@ -14,5 +14,5 @@ Please create a 'Program' that parses the index.html file in this repository and
 
 ## Submission instructions
 * Create an account on [Bitbucket](https://bitbucket.org/) and create a private repo.
-* Share private repo with [drouillard] (https://bitbucket.org/drouillard/)
+* Share private repo with [drouillard](https://bitbucket.org/drouillard/)
 * Please include instructions on how to run your 'Program' in your repo's README.md
